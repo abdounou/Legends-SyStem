@@ -13512,4 +13512,4 @@ channel.guild.owner.send(`<@!${channelremover.id}>
   },Otime)
   });
 
-client.login('NTI4MTkxOTMwMDU2NzA0MDQw.Dwev6g.ms4X6eizk6dW6VYFIYM9V4aYT5o');
+client.login('NTI4MjkzNjUxMjk0NDUzNzYw.DwgPTg.6w4xfuoB-K9shgXoHogeVxDunEs');
